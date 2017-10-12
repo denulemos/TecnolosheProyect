@@ -1,0 +1,10 @@
+/Users/denulemos/Documents/Tecnoloshe /bin/Debug/netcoreapp2.0/Tecnoloshe.deps.json
+/Users/denulemos/Documents/Tecnoloshe /bin/Debug/netcoreapp2.0/Tecnoloshe.runtimeconfig.json
+/Users/denulemos/Documents/Tecnoloshe /bin/Debug/netcoreapp2.0/Tecnoloshe.runtimeconfig.dev.json
+/Users/denulemos/Documents/Tecnoloshe /bin/Debug/netcoreapp2.0/Tecnoloshe.dll
+/Users/denulemos/Documents/Tecnoloshe /bin/Debug/netcoreapp2.0/Tecnoloshe.pdb
+/Users/denulemos/Documents/Tecnoloshe /obj/Debug/netcoreapp2.0/Tecnoloshe.csproj.CoreCompileInputs.cache
+/Users/denulemos/Documents/Tecnoloshe /obj/Debug/netcoreapp2.0/Tecnoloshe.AssemblyInfoInputs.cache
+/Users/denulemos/Documents/Tecnoloshe /obj/Debug/netcoreapp2.0/Tecnoloshe.AssemblyInfo.cs
+/Users/denulemos/Documents/Tecnoloshe /obj/Debug/netcoreapp2.0/Tecnoloshe.dll
+/Users/denulemos/Documents/Tecnoloshe /obj/Debug/netcoreapp2.0/Tecnoloshe.pdb
